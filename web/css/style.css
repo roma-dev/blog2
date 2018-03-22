@@ -1,0 +1,26 @@
+.header{
+	padding-top: 10px;
+}
+
+.login-logout {
+    height: 20px;
+}
+.login-logout{
+	list-style: none;
+	float: right;
+}
+.login-logout li{
+	float: left;
+	margin-right: 10px;
+}
+
+.admin-top-menu ul{
+	list-style: none;
+}
+.admin-top-menu li{
+	float: left;
+	padding-left: 10px;
+}
+.post_block{
+    border-bottom: 1px solid #dedede;
+}
